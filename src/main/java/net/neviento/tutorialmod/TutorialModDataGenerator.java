@@ -3,7 +3,7 @@ package net.neviento.tutorialmod;
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator;
 
-// Comment Test
+// New Comment Test
 
 public class TutorialModDataGenerator implements DataGeneratorEntrypoint {
 	@Override
